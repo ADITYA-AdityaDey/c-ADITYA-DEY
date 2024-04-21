@@ -4,8 +4,8 @@ int main () {
 
 
 
-    printf ("HELLO C");
-
+    printf ("HELLO C\n");
+    printf ("DSA");
 
 
     return 0;
